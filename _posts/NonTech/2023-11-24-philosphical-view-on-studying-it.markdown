@@ -2,7 +2,9 @@
 layout: post
 title:  "Philosophical view on studying IT"
 date:   2023-11-24 +0200
-categories: jekyll update
+categories: tech
+path: "tech"
+tags: ["Philosophy", "Studying"]
 ---
 
 Have you ever thought that every person on the planet has a unique life experience? 

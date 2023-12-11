@@ -4,5 +4,6 @@ _site
 .jekyll-metadata
 vendor
 # Custom ignore list
+Gemfile.lock
 _notes
-*/TODO
+TODO

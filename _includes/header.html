@@ -3,14 +3,8 @@
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <link rel="shortcut icon" type="image/png" href="/assets/ico/terminal.ico">
-    <!-- <a class="site-title" href="{{ full_base_url }}/">{{ site.title | escape }}</a> -->
     <a class="site-title" href="{{ full_base_url }}/">
-      {% if site.logo %}
-      <img src="{{ full_base_url }}/{{ site.logo }}" class="site-logo" width="auto" height="56">
-      {% else %}
-      {{ site.title | escape }}
-      {% endif %}
+      off77th
     </a>
 
     {%- if page_paths -%}

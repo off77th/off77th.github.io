@@ -54,3 +54,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Custom list of header pages
+header_pages:
+  - header_pages/about.md

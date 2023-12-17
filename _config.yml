@@ -55,6 +55,13 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+
+defaults:
+  - scope:
+      path: "assets/"
+    values:
+      image: true
+
 # Custom list of header pages
 header_pages:
   - header_pages/about.md

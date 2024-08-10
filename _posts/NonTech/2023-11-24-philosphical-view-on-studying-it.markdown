@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Philosophical view on studying IT"
-date:   2023-11-24 +0200
+title: "Philosophical view on studying IT"
+date: 2023-11-24 +0200
 tags: philosophy studying
 published: true
 ---

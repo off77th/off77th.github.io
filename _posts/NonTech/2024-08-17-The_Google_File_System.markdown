@@ -6,7 +6,7 @@ tags: studying
 published: true
 ---
 
-["The Google File System"](https://static.googleusercontent.com/media/research.google.com/ru//archive/gfs-sosp2003.pdf){:target="_blank"}, first paper from the list. Shortly, it's a great paper on how the approach "Accept the inevitable occurrence of failure within the system" can be applied to the large scale File System with thousands of nodes and hundreds of concurrent users.
+["The Google File System"](https://research.google/pubs/the-google-file-system/){:target="_blank"}, first paper from the list. Shortly, it's a great paper on how the approach "Accept the inevitable occurrence of failure within the system" can be applied to the large scale File System with thousands of nodes and hundreds of concurrent users.
 >We have reexamined traditional choices and explored radically different points in the design space.
 >1. Component failures are the norm rather than the exception.
 >2. Files are huge by traditional standards.
@@ -14,7 +14,7 @@ published: true
 >4. Co-designing the applications and the file system API benefits the overall system by increasing our flexibility.
 
 It was written by Sanjay Ghemawat, Howard Gobioff, and Shun-Tak Leung and published in 2003.
-The details of how Google engineers have solved addressed these approaches are described in the paper. Design principles, system interactions, master server and it's functionality, fault tolerance approaches, and measurements data, based on production and internal clusters usage metrics - all this can be found inside.
+The details of how Google engineers have addressed these approaches are described in the paper. Design principles, system interactions, master server and its functionality, fault tolerance approaches, and measurements data, based on production and internal clusters usage metrics - all this can be found inside.
 
 Key points from the paper:
 1. **Design Goals:**

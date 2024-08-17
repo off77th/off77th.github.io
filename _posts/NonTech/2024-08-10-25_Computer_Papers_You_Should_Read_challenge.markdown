@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "25 Computer Papers You Should Read challenge."
+title: "25 Computer Papers You Should Read challenge"
 date: 2024-08-10 +0200
 tags: studying
 published: true

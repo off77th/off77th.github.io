@@ -1,22 +1,25 @@
 ---
 layout: post
-title: "Dynamo: Amazon’s Highly Available Key-value Store"
+title: "Dynamo: Amazon's Highly Available Key-value Store"
 date: 2024-09-09 +0200
-tags: studying
+tags: computer-science article
 published: true
 ---
 
-Second paper, ["Dynamo: Amazon’s Highly Available Key-value Store"](https://www.amazon.science/publications/dynamo-amazons-highly-available-key-value-store){:target="_blank"}. Looks like must-read for all who is interested in Databases design.
+Second paper, ["Dynamo: Amazon's Highly Available Key-value Store"](https://www.amazon.science/publications/dynamo-amazons-highly-available-key-value-store){:target="_blank"}. Looks like must-read for all who are interested in Databases design.
+
 > This paper described Dynamo, a highly available and scalable
 data store, used for storing state of a number of core services of
-Amazon.com’s e-commerce platform. \
+Amazon.com's e-commerce platform. \
 ... \
 The production use of Dynamo for the past year demonstrates that decentralized techniques can be combined to provide a single highly-available system. Its success in one of the most challenging application environments shows that an eventual-consistent storage system can be a building block for highly-available applications.
+
+![Amazon DynamoDB header picture](../../../assets/pictures/Amazon_DynamoDB.png)
 
 Key points from the paper:
 1. **Core Requirements**:
    - Amazon services demand extreme availability, reliability, and low-latency performance.
-   - Traditional databases weren't suitable for Amazon’s needs due to scalability and availability issues, leading to the design of Dynamo.
+   - Traditional databases weren't suitable for Amazon's needs due to scalability and availability issues, leading to the design of Dynamo.
 2. **Design Assumptions and Techniques**:
    - **Decentralized Architecture**: Dynamo avoids centralized control, allowing horizontal scaling by distributing data across nodes without a master node.
    - **Eventually Consistent Model**: The system ensures availability even during partition failures by allowing replicas of data to diverge temporarily, eventually reaching consistency.

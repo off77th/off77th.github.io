@@ -2,7 +2,7 @@
 layout: post
 title: "25 Computer Papers You Should Read challenge"
 date: 2024-08-10 +0200
-tags: studying
+tags: computer-science article
 published: true
 ---
 
@@ -10,4 +10,5 @@ I just decided to challenge myself. And read all the ["25 Computer Papers You Sh
 
 List of posts:
 1. ["The Google File System"](../17/The-Google-File-System.html)
-2. ["Dynamo: Amazon’s Highly Available Key-value Store"](../../09/09/Dynamo-Amazon.html)
+2. ["Dynamo: Amazon's Highly Available Key-value Store"](../../09/09/Dynamo-Amazon.html)
+3. ["Bigtable: A Distributed Storage System for Structured Data"](../../../2025/02/09/Google-Bigtable.html)

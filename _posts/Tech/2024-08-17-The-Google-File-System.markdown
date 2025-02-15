@@ -7,6 +7,7 @@ published: true
 ---
 
 ["The Google File System"](https://research.google/pubs/the-google-file-system/){:target="_blank"}, first paper from the list. Shortly, it's a great paper on how the approach "Accept the inevitable occurrence of failure within the system" can be applied to the large scale File System with thousands of nodes and hundreds of concurrent users.
+
 ![Google File System header picture](../../../assets/pictures/Google_File_system.jpg)
 
 >We have reexamined traditional choices and explored radically different points in the design space.

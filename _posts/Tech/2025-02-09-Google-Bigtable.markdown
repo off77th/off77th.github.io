@@ -8,16 +8,17 @@ published: true
 
 ## Introduction
 Long time no see. Third of 25 articles - Google's Bigtable paper ["Bigtable: A Distributed Storage System for Structured Data"](https://research.google/pubs/bigtable-a-distributed-storage-system-for-structured-data/){:target="_blank"}, 2006. One of the most influential academic papers in the world of distributed storage systems, that describes a scalable, high-performance, and distributed storage system that underpins many of Google's most essential services, including Google Search, Google Earth, and Google Analytics. If you're looking to deepen your understanding of distributed databases, this paper is a must-read.
+
 ![Google Bigtable header picture](../../../assets/pictures/Google_Bigtable.png)
 
 ## Recommended prerequisities to read the article
 Before diving into Bigtable, it's beneficial to have a solid understanding of the following things:
 - **Distributed Systems:** Concepts like consistency, availability, partitioning (CAP theorem), and consensus protocols.
-- **Google File System (GFS):** Bigtable is built on top of GFS, so understanding its architecture helps grasp Bigtable’s design principles. You can find more about GFS in previous post "The Google File System Paper"!
+- **Google File System (GFS):** Bigtable is built on top of GFS, so understanding its architecture helps grasp Bigtable’s design principles. You can find more about GFS in the previous post "The Google File System Paper"!
 - **Data Models:** Column-oriented storage and NoSQL databases, as Bigtable diverges significantly from traditional relational databases.
 
 ## Overview of the Bigtable Paper
-The Bigtable paper provides an in-depth explanation of how Google built a scalable storage system for handling structured data at a massive scale. 
+The Bigtable paper provides an in-depth explanation of how Google built a scalable storage system for handling structured data at a massive scale.
 
 - **Architecture of the BigTable**
     - Bigtable is a distributed storage system that organizes data into tables.
@@ -44,7 +45,7 @@ Bigtable was a groundbreaking innovation that inspired a new generation of distr
 2. **Apache HBase** – An open-source implementation of Bigtable built on top of Hadoop's Distributed File System (HDFS). HBase is widely used in the Apache ecosystem for large-scale data storage.
 3. **Apache Cassandra** – While not a direct descendant, Cassandra borrows many design principles from Bigtable and DynamoDB, focusing on horizontal scalability and distributed data replication.
 4. **Amazon DynamoDB** – A fully managed NoSQL database service that integrates Bigtable's concepts with Amazon's distributed storage architecture.
-Many organizations today rely on Bigtable-inspired architectures to power applications requiring low-latency, high-throughput access to structured data, including real-time analytics, recommendation systems, and monitoring platform
+Many organizations today rely on Bigtable-inspired architectures to power applications requiring low-latency, high-throughput access to structured data, including real-time analytics, recommendation systems, and monitoring platform.
 
 ## Summary
 Google's Bigtable paper introduced a revolutionary distributed storage model that laid the foundation for many modern NoSQL databases. It demonstrated how a scalable, column-oriented storage system could handle structured data efficiently at an immense scale. The core principles of Bigtable—distributed storage, horizontal scalability, and column-family-based organization — are still fundamental to cloud computing and big data technologies today. For anyone working with distributed databases or large-scale storage solutions, studying the Bigtable paper offers valuable insights into how scalable architectures are designed and operated in production environments.

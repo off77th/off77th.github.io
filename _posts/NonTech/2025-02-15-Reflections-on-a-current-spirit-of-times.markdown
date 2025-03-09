@@ -2,7 +2,7 @@
 layout: post
 title: "Reflections on a current spirit of times (Zeitgeist)"
 date: 2025-02-15 +0200
-tags: just-thoughts it
+tags: reflections it
 published: true
 ---
 
@@ -19,7 +19,7 @@ In some moment we got more abstractions and delegated part of the work to the ne
 
 So what to do to overcome these challenges? Understand the processes that lead to such changes and extract from them the things necessary to ensure a stable existence in the developed situation (nowadays). Learn things deeper, don't overestimate yourself even if you achieved something, but never underestimate yourself either. Strive to work on more challenging things, that you have worked on before. Or if you have some other goals, like getting more money, for example, learn how to sell your skills to others, and than scale it.
 
-But what regarding those who built solutions, which led us to this situation? Take responsibility, be accountable for what you did in the past, and what you should do now to stabilize the situation. 
+But what about those who built solutions that led us to this situation? Take responsibility. Be accountable for what you did in the past and what you should do now to stabilize the situation.
 It can't be fixed only by the work of one side or another, there should be mutual agreement on what happened, why, and how to live with it...
 
 Probably, we even got some drift in fundamental things and should review them. As well as our views on the fundamentals...

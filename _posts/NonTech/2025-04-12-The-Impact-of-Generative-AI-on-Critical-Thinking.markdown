@@ -6,7 +6,7 @@ tags: reflections AI
 published: true
 ---
 
-Does the usage of AI impact critical thinking (and vice versa)? The Microsoft published paper ["The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers"](https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf){:target="_blank"}, that explores how generative AI (GenAI) tools influence critical thinking among knowledge workers. The paper can be summ up in the following way:
+Does the usage of AI impact your critical thinking abilities (and vice versa)? Microsoft published paper ["The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers"](https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf){:target="_blank"}, that explores how generative AI (GenAI) tools influence critical thinking among knowledge workers. The paper can be summ up in the following way:
 
 ![Header of the paper](../../../assets/pictures/AI_and_human.webp)
 
@@ -22,7 +22,7 @@ Three key transformations in critical thinking practices:
 
 **Motivators and Barriers.**
 
-Key drivers for critical thinking:
+Primary  drivers for critical thinking:
 - Quality assurance (72% of respondents)
 - Error prevention (65%)
 - Skill development (48%)

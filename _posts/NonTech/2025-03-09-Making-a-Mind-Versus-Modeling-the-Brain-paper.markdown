@@ -2,7 +2,7 @@
 layout: post
 title: "Making a Mind Versus Modeling the Brain paper"
 date: 2025-03-09 +0200
-tags: reflections ai philosophy
+tags: reflections AI philosophy
 published: true
 ---
 
@@ -12,7 +12,7 @@ There were many reasons for this emergence, but their foundation was laid back i
 ![Header of the paper](../../../assets/pictures/Making_a_Mind_Versus_Modeling_the_Brain.png)
 
 Here's the paper "Making a Mind Versus Modeling the Brain paper". Authors: Hubert L. Dreyfus is professor of philosophy at the University of California at Berkeley. Stuart E. Dreyfus is professor of industrial engineering and operations research at the University of California at Berkeley.
-The paper described two approaches to AI:
+The paper describes two approaches to AI:
 1. Symbolic Manipulation (Making a Mind): This approach views computers as systems for manipulating mental symbols, focusing on problem-solving through formal rules. It is rooted in the rationalist tradition and emphasizes the use of logic to achieve intelligent behavior.
 
 2. Neural Networks (Modeling the Brain): Inspired by neuroscience, this approach seeks to simulate the interactions of neurons to enable learning and pattern recognition, emphasizing a holistic view of intelligence.
@@ -21,7 +21,7 @@ Both approaches emerged in the early 1950s and initially showed promise. However
 
 Allen Newell and Herbert Simon proposed that minds and computers are physical symbol systems capable of intelligent behavior through formal rules. This hypothesis became a cornerstone of symbolic AI.
 
-Marvin Minsky and Seymour Papert's critique of perceptrons (a type of neural network) in their 1969 book contributed significantly to the decline of neural network research. Their analysis highlighted limitations of single-layer perceptrons but was interpreted more broadly, affecting the trajectory of AI research.
+Marvin Minsky and Seymour Papert's critique of perceptrons (a type of neural network) in their 1969 book contributed significantly to the decline of neural network research. Their analysis highlighted the limitations of single-layer perceptrons but was interpreted more broadly, affecting the trajectory of AI research.
 
 The symbolic approach aligns with rationalist philosophy, while the neural network approach reflects a more holistic, idealized neuroscience perspective. The former emphasizes formal structures and problem-solving, while the latter focuses on learning and pattern recognition through statistical methods.
 
